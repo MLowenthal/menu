@@ -4,6 +4,15 @@
 }
 .brand,
 .logo-img {
-	height: 5%;
+	height: 6%;
 }
+body {font-family: "Podkova",serif;
+	font-size:200%;
+	 font-weight:400;
+}
+.carousel-caption{
+font-weight:bold;
 
+
+
+}
