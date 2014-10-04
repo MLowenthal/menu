@@ -12,7 +12,10 @@ body {font-family: "Podkova",serif;
 }
 .carousel-caption{
 font-weight:bold;
-
-
-
 }
+h1 {font-family: Palatino, "Palatino Linotype", "Palatino LT STD","Book Antiqua", Georgia, serif;}
+
+.burger {font-size:80%;}
+.sauce{font-weight:bold;}
+.battle{height:120px; width: auto; :}
+.follow{text-align: center;}
