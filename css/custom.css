@@ -9,7 +9,10 @@
 body {font-family: "Podkova",serif;
 	font-size:200%;
 	 font-weight:400;
+	 background-image: url('../img/backdrop.png');
+
 }
+.backcolor{background-color:#FFA500}
 .carousel-caption{
 font-weight:bold;
 }
@@ -20,3 +23,13 @@ h1 {font-family: Palatino, "Palatino Linotype", "Palatino LT STD","Book Antiqua"
 .battle{height:120px; width: auto; :}
 .follow{text-align: center;}
 
+.content-area {
+	background-color:white ;
+	margin-left: 5%;
+	margin-right: 99px;
+}
+
+.navbar-wrapper{
+	padding-right: 0px;
+	padding-left: 0px;
+}
